@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "@minecraft-js/chat",
   "version": "1.0.0",
-  "description": "todo: change",
+  "description": "Parse and serialize Minecraft chat messages",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MinecraftJS/template.git"
+    "url": "git+https://github.com/MinecraftJS/Chat.git"
   },
   "keywords": [
     "minecraftjs"
   ],
-  "author": "todo: change",
+  "author": "RichardDorian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MinecraftJS/template/issues"
+    "url": "https://github.com/MinecraftJS/Chat/issues"
   },
-  "homepage": "https://github.com/MinecraftJS/template#readme",
+  "homepage": "https://github.com/MinecraftJS/Chat#readme",
   "devDependencies": {
     "prettier": "^2.6.1",
     "typescript": "^4.6.3"
